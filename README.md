@@ -9,7 +9,7 @@ CSV processing defaults to `data/sample_complaints.csv`, whose complaint text co
 Open PowerShell and move to the project folder (adjust the path if you moved the project):
 
 ```powershell
-Set-Location "C:\Users\ishit\OneDrive\Desktop\Work\SynergyAI_reasonance"
+Set-Location "<path>"
 ```
 
 ## 2. Create and activate a Python environment
